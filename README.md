@@ -1,3 +1,5 @@
+[![Mentioned in Awesome DevSecOps](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/devsecops/awesome-devsecops#guidelines)
+
 # Intro
 Security Champions Playbook is a project started in preparation for the presentation ["Security Champions 2.0"](https://www.owasp.org/images/3/3c/OWASP_Bucharest_2017_Antukh.pdf) at OWASP Bucharest AppSec Conference 2017. It describes the main steps for fast establishment of a Security Champions program regardless of the company size and maturity of the existing security processes.
 
