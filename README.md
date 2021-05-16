@@ -5,9 +5,7 @@ Security Champions Playbook is a project started in preparation for the presenta
 
 
 # Who are the Security Champions?
-According to OWASP definition, Security Champions are "active members of a team that may help to make decisions about when to engage the Security Team". They act as a core element of security assurance process within the product or service, and hold the role of the Single Point of Contact (SPOC) within the team.
-
-More information about the Champions: https://www.owasp.org/index.php/Security_Champions
+Security Champions are "active members of a team that may help to make decisions about when to engage the Security Team". They act as a core element of security assurance process within the product or service, and hold the role of the Single Point of Contact (SPOC) within the team.
 
 
 # What benefits do Champions bring to my company?
