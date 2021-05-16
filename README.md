@@ -30,4 +30,4 @@ experience. I will be happy to hear your feedback and update the playbook. Curre
 
 ---
 # Simplified diagram
-![alt text](Security%20Playbook/playbook.png)
+![alt text](assets/img/playbook.png)
