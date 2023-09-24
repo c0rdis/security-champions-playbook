@@ -26,4 +26,4 @@ Ficarei feliz em receber seus comentários e atualizar o playbook. Versão atual
 
 ---
 # Simplified diagram
-![alt text](../assets/img/playbook.png)
+![alt text](../assets/img/sc_playbook_ptbr.png)
