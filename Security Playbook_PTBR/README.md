@@ -25,5 +25,5 @@ Ficarei feliz em receber seus comentários e atualizar o playbook. Versão atual
 ### [6. Manter o interesse](6.%20Manter%20o%20interesse.md)
 
 ---
-# Simplified diagram
+# Diagrama simplificado
 ![alt text](../assets/img/sc_playbook_ptbr.png)
